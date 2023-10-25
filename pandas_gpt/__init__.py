@@ -13,7 +13,9 @@ Write a Python function `process({arg_name})` which takes the following input va
 
 This is the function's purpose: {goal}
 
-Write the function in a Python code block with all necessary imports and no example usage:
+if there is a plot, return a base 64 of the image
+
+Write the function in a Python code block with all necessary imports, no comments and no example usage:
 '''
 
 _ask_cache = {}
